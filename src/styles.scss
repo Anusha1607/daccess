@@ -1,0 +1,92 @@
+// /* You can add global styles to this file, and also import other style files */
+
+// /* You can add global styles to this file, and also import other style files */  
+//@import "~bootstrap/dist/css/bootstrap.css";  
+//@import "~font-awesome/css/font-awesome.css";  
+.ng-valid[required],
+.ng-valid.required {
+  border-left: 5px solid #ea3232;
+  /* green */
+}
+
+.ng-invalid:not(form) {
+  border-left: 5px solid #a94442;
+  /* red */
+}
+
+.mtop10 {
+  margin-top: 10px;
+}
+
+table {
+  width: 100%;
+}
+
+.tdwidth {
+  width: 1%;
+}
+
+thead tr {
+  border-bottom: 3px solid #eee;
+}
+
+thead td {
+  font-size: 14px;
+  padding: 7px 28px;
+  font-family: ProximaNovaLtSemibold;
+}
+
+tbody td {
+  padding: 11px 14px 11px 28px;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+
+  a {
+    color: #2c7bd0 !important;
+  }
+}
+
+tbody tr {
+  border-bottom: 1px solid #eceff1;
+}
+
+.pad-10 {
+  padding: 0px 10px;
+}
+
+tbody tr:hover {
+  background-color: #f9f9f9;
+  cursor: pointer;
+
+  .editcolor {
+    display: block;
+  }
+}
+
+.mr-tp {
+  position: sticky;
+  bottom: 0px;
+  background: white;
+}
+
+.pad-left-29 {
+  padding-left: 29px;
+}
+
+.pad-left-15 {
+  padding-left: 15px;
+}
+.validation {
+  color: #d72e3d;
+  font-size: 11px;
+  font-family: ProximaNovaRegular;
+}
+
+
+
+.requiredfield {
+  border-left: 3px solid #df0707 !important;
+}

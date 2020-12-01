@@ -1,0 +1,94 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Anusha",
+      "LastName": "Shetye",
+      "mobile": 7545621230,
+      "city": "Pune",
+      "email": "anusha@gmail.com",
+      "age": 23
+    },
+    {
+      "id": 2,
+      "firstName": "Datta",
+      "LastName": "Joshi",
+      "mobile": 7545421230,
+      "city": "Mumbai",
+      "email": "datta@gmail.com",
+      "age": 30
+    },
+    {
+      "id": 3,
+      "firstName": "Sham",
+      "LastName": "Kappor",
+      "mobile": 8888621230,
+      "city": "Pune",
+      "email": "sham@gmail.com",
+      "age": 27
+    },
+    {
+      "id": 4,
+      "firstName": "Nick",
+      "LastName": "John",
+      "mobile": 9562145263,
+      "city": "Kolkata",
+      "email": "nick@hotmail.com",
+      "age": 23
+    },
+    {
+      "id": 5,
+      "firstName": "Ragini",
+      "LastName": "Joshi",
+      "mobile": 7775421230,
+      "city": "Mumbai",
+      "email": "ragini.joshi@gmail.com",
+      "age": 30
+    },
+    {
+      "firstName": "Shamika",
+      "LastName": "Kappor",
+      "mobile": 8888677485,
+      "city": "Pune",
+      "email": "sham123@gmail.com",
+      "age": 27
+    },
+    {
+      "id": 6,
+      "firstName": "mihir",
+      "LastName": "Shetye",
+      "mobile": 8451740030,
+      "city": "Pune",
+      "email": "mihir23@gmail.com",
+      "age": 25
+    },
+    {
+      "id": 7,
+      "firstName": "rakesh",
+      "LastName": "kumbhar",
+      "mobile": 9545421230,
+      "city": "Mumbai",
+      "email": "rakesh@gmail.com",
+      "age": 30
+    },
+    {
+      "id": 8,
+      "firstName": "meena",
+      "LastName": "shinde",
+      "mobile": 7782145263,
+      "city": "trivendrum",
+      "email": "meena@hotmail.com",
+      "age": 23
+    },
+    {
+      "id": 9,
+      "firstName": "swara",
+      "LastName": "Joshi",
+      "mobile": 8975421230,
+      "city": "Mumbai",
+      "email": "swarajoshi@gmail.com",
+      "age": 30
+    }
+  ]
+ 
+}
